@@ -14,6 +14,6 @@ int main(void)
     }
     printf("creating file %s....\n", "toto");
     sleep(3);
-    dprintf(fd, "EPICTF{D14_4R3_7H3_8E5T}");
+    dprintf(fd, "33d1dc6453a735194034a5443547aeb115a62602b2b9e5f1b44f7f10d5505fe0");
     remove("toto");
 }
