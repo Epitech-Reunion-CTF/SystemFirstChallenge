@@ -3,3 +3,5 @@ all:
 
 clean:
 	rm a.out
+
+re: clean all
